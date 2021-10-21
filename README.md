@@ -1,8 +1,7 @@
 - 👋 <em>Hi, I’m Mustafa Samy
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning web development
 - 📓 I study Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mustafa.samy591@gmail.com
 </em>
 <!---
